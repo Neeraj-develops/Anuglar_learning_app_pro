@@ -1,0 +1,7 @@
+{
+  "name": "Angular_app_pro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
